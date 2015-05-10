@@ -1,0 +1,11 @@
+{
+  "name": "socket_example",
+  "version": "1.0.0",
+  "description": "Aprendiendo nodejs con socket io",
+  "author": "Rat team",
+  "license": "MIT",
+  "devDependencies": {
+  	 "express": "~4.12.3",
+  	 "socket.io": "~1.3.5"
+  }
+}
